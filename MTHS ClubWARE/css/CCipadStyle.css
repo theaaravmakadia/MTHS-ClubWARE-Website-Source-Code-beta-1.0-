@@ -1,0 +1,97 @@
+@media (min-width: 1025px) and (max-width: 1280px)  {
+    .menu .menuContent{
+        position: absolute;
+        width: 835px;
+        height: 100%;
+    }
+
+    .menu .menuContent ul a {
+        margin-right: -7px;
+    }
+
+    .menu.active {
+        width: 725px;
+    }
+
+    section{
+        width: 1285px;
+        margin-left: -175px;
+        overflow: hidden;
+    }
+
+    .logoImgNew{
+        margin-top: -95px;
+        margin-left: 17px;
+    }
+    
+    .breadcrumb{
+        margin-left: -105px !important;
+        padding-left: 0 !important;
+    }
+
+    .atp{
+        width: 335px !important;
+    }
+
+    #end{
+        width: 800px !important;
+        margin-left: 370px !important; 
+        margin-top: -168px !important;
+    }
+
+    .act1{
+        width: 23rem !important;
+    }
+
+    .act2{
+        width: 33rem !important;
+        margin-left: 270px !important;
+    }
+
+    .act3{
+        width: 18rem !important;
+    }
+
+    .act4{
+        width: 16rem !important;
+        margin-left: 230px !important; 
+    }
+
+    .act5{
+        width: 19rem !important;
+        margin-left: 415px !important;
+    }
+    
+    .act6{
+        width: 23rem !important;
+    }
+
+    .bb{
+        width: 33rem !important;
+    }
+
+    .bb1{
+        width: 19rem !important;
+    }
+
+    #larg{
+        height: 195px !important;
+    }
+
+    .bd-callout{
+        height: 150px !important;
+    }
+
+    #myCarousel{
+        margin-top: -885px !important;
+    }
+
+    .bb3{
+        width: 18rem !important;
+    }
+
+    .bb4{
+        width: 16rem !important;
+        margin-left: 200px !important; 
+    }
+}

@@ -3,10 +3,10 @@ Founders
 Aarav Makadia '22
 Vice President of IT and Programmer
 
-Vasista Banala
+Vasista Banala "22
 Secretary of IT
 
-Rijukeya Prakasam
+Rijukeya Prakasam '22
 Secretary of Innovations
 
 Kabir Kathuria

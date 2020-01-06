@@ -154,7 +154,7 @@
 /*-----Carousel CSS-----*/
 
 #myCarousel{
-    margin-top: -665px;
+    margin-top: -750px;
     overflow: hidden;
     height: 640px;
     width: auto; 
@@ -332,7 +332,7 @@ section {
     word-wrap: break-word;
     display: block;
     box-sizing: border-box;
-    width: 1519px;
+    width: 1470px;
     margin-left: -175px;
 }
 

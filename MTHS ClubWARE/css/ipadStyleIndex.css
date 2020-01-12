@@ -1,45 +1,75 @@
-@media (min-width: 1025px) and (max-width: 1280px)  {
-    /*-----index.html-----*/
+
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+    /* For landscape layouts only */
+
+    .menu span {
+        width: 50px;
+        height: 50px;
+    }
+
+    .menu{
+        right: 25px;
+        top: 10px;
+        position: absolute;
+    }
 
     .logoImg{
-        margin-top: -60px;
-        margin-left: 15px;
-        position: relative;
+        width: 11%;
+        height: auto;
+        top: 105px;
+        left: -45px;
+        position: absolute;
     }
 
     .headerTop h1{
-        margin-top: -40px;
-        margin-left: 175px;
+        margin-top: 45px;
+        margin-left: 100px;
+        font-size: 26px;
     }
 
     .headerTop h3{
-        margin-left: -25px;
+        margin-left: -100px;
+        font-size: 10px;
     }
 
-    #myCarousel{
-        margin-top: -855px;
+    .home{
+        position: absolute;
+        top: 130px !important;
+        max-height: 640px;
+        overflow: hidden;
+        width: auto; 
     }
 
     .menu .menuContent{
         position: absolute;
-        width: 835px;
-        height: 100%;
+        width: 820px;
+        height: 75%;
+        margin-top: -10px;
     }
 
     .menu .menuContent ul a {
-        margin-right: -7px;
+        margin-right: -10px;
+    }
+
+    .menu .menuContent ul{
+        margin-right: -20px;
     }
 
     .menu.active {
-        width: 725px;
+        width: 675px;
     }
 
-    section{
-        width: 1285px;
-        margin-left: -55px;
-        overflow: hidden;
+    .hm{
+        margin-top: -100px;
     }
 
-    
-}
+    .homeText{
+        margin-left: 300px;
+    }
 
+    #bottomFoot{
+        margin-left: 15px;
+    }
+
+  }

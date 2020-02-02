@@ -4,5 +4,7 @@ Original Source Code of the beta version (1.0) of the MTHS ClubWare intranet web
 ALL CORE PAGES - INSERT_NAME.html
 
 ABBR DIRECTORY 
+
 CC = Computer Club
+
 RC = Robotics Club

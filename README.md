@@ -8,3 +8,7 @@ ABBR DIRECTORY
 CC = Computer Club
 
 RC = Robotics Club
+
+AA = African American Club
+
+A = Art Club

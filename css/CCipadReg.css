@@ -1,0 +1,78 @@
+
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+    /* For landscape layouts only */
+
+    .menu span {
+        width: 50px;
+        height: 50px;
+    }
+
+    .menu{
+        right: 25px;
+        top: 20px;
+        position: absolute;
+    }
+
+    .logoImgNew{
+        width: 11%;
+        height: auto;
+        top: 70px;
+        left: 10px;
+        position: absolute;
+    }
+
+    .headText{
+        margin-top: 35px;
+        margin-left: 115px;
+        font-size: 25px;
+    }
+
+    .menu .menuContent{
+        position: absolute;
+        width: 820px;
+        height: 75%;
+        margin-top: 0px;
+    }
+
+    .menu .menuContent ul a {
+        margin-right: -10px;
+    }
+
+    .menu .menuContent ul{
+        margin-right: -20px;
+    }
+
+    #left{
+        margin-left: -150px;
+    }
+
+    .sp{
+        margin-top: -375px;
+    }
+
+    .menu.active {
+        width: 675px;
+    }
+
+    .c{
+        width: 925px !important;
+        margin-left: 25px;
+    }
+
+    #criteria{
+        width: 925px !important;
+        margin-left: 25px !important;
+        height: 145px !important;
+    }
+
+    #cal{
+        width: 925px !important;
+        margin-left: 25px !important;
+    }
+
+    #bottomFoot{
+        margin-left: 25px;
+    }
+
+}

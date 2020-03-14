@@ -1,0 +1,159 @@
+
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+    /* For landscape layouts only */
+
+    .menu span {
+        width: 50px;
+        height: 50px;
+    }
+
+    .menu{
+        right: 25px;
+        top: 20px;
+        position: absolute;
+    }
+
+    .logoImgNew{
+        width: 11%;
+        height: auto;
+        top: 70px;
+        left: 10px;
+        position: absolute;
+    }
+
+    .headText{
+        margin-top: 35px;
+        margin-left: 115px;
+        font-size: 25px;
+    }
+
+    .menu .menuContent{
+        position: absolute;
+        width: 820px;
+        height: 75%;
+        margin-top: 0px;
+    }
+
+    .menu .menuContent ul a {
+        margin-right: -10px;
+    }
+
+    .menu .menuContent ul{
+        margin-right: -20px;
+    }
+
+    #left{
+        margin-left: -150px;
+    }
+
+    .cb{
+        margin-top: -125px !important;
+    }
+
+    .menu.active {
+        width: 675px;
+    }
+
+    #bottomFoot{
+        margin-left: 25px;
+    }
+
+    .bb3{
+        width: 18rem !important;
+    }
+
+    .bb4{
+        width: 16rem !important;
+        margin-left: 200px !important; 
+    }
+
+    .club{
+        top: 105px !important;
+    }
+
+    .atp{
+        width: 335px !important;
+    }
+
+    #end{
+        width: 800px !important;
+        margin-left: 370px !important; 
+        margin-top: -168px !important;
+    }
+
+    .act1{
+        width: 20rem !important;
+    }
+
+    .act2{
+        width: 15rem !important;
+        margin-left: 240px !important;
+    }
+
+    .act3{
+        width: 17rem !important;
+    }
+
+    .act4{
+        width: 15rem !important;
+        margin-left: 230px !important; 
+    }
+
+    .act5{
+        width: 18rem !important;
+        margin-left: 415px !important;
+    }
+    
+    .act6{
+        width: 21rem !important;
+    }
+
+    .bb{
+        width: 33rem !important;
+    }
+
+    .bb1{
+        width: 19rem !important;
+    }
+
+    #larg{
+        height: 195px !important;
+    }
+
+    .bd-callout{
+        height: 150px !important;
+    }
+
+    .contMain{
+        margin-left: -65px;
+    }
+    
+    #miss{
+        width: 1010px !important;
+    }
+    
+    #end{
+        width: 655px !important;
+    }
+
+    .tab{
+        width: 1010px !important;
+    }
+
+    #sm{
+        width: 1000px !important;
+    }
+
+    #sa{
+        width: 1000px !important;
+    }
+
+    #ex{
+        width: 895px !important;
+    }
+
+    #larg{
+        width: 895px !important;
+    }
+}
